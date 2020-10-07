@@ -1,0 +1,56 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Welcome</title>
+        <link>https://dutchcyberguy.github.io/6f736370.github.io/posts/</link>
+        <description>Recent content in Posts on Welcome</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Wed, 07 Oct 2020 00:00:00 +0000</lastBuildDate>
+        <atom:link href="https://dutchcyberguy.github.io/6f736370.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Try harder and make notes</title>
+            <link>https://dutchcyberguy.github.io/6f736370.github.io/posts/2020/10/try-harder-and-make-notes/</link>
+            <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
+            
+            <guid>https://dutchcyberguy.github.io/6f736370.github.io/posts/2020/10/try-harder-and-make-notes/</guid>
+            <description>Step 1. Register for the course Go to [Offensive Security](https://www.offensive-security.com/ and register for the OSCP course and labs.
+Save it somewhere specific as we will be using it in the next step.
+You can register for the course at PWK OSCP
+Step 2. Build your own methodology I would recommend you to build your own methodology throughout the course and even after that.
+You could use, for example of the following:</description>
+            <content type="html"><![CDATA[<h2 id="step-1-register-for-the-course">Step 1. Register for the course</h2>
+<p>Go to [Offensive Security](<a href="https://www.offensive-security.com/">https://www.offensive-security.com/</a> and register for
+the OSCP course and labs.</p>
+<p>Save it somewhere specific as we will be using it in the next step.</p>
+<p>You can register for the course at <a href="https://www.offensive-security.com/pwk-oscp/">PWK OSCP</a></p>
+<h2 id="step-2-build-your-own-methodology">Step 2. Build your own methodology</h2>
+<p>I would recommend you to build your own methodology throughout the course
+and even after that.</p>
+<p>You could use, for example of the following:</p>
+<ol>
+<li>Use <a href="https://www.gitbook.com/">Gitbook</a></li>
+<li>Use <a href="https://pentest.ws/">Pentest WS</a></li>
+<li>Use <a href="https://evernote.com/">Evernote</a></li>
+<li>Use <a href="https://github.com/">Github</a></li>
+</ol>
+<h2 id="step-3-organize-and-practise">Step 3. Organize and practise</h2>
+<p>My suggestions to you are to organize and practise how you
+want to approacht this course but definitely remember to use:</p>
+<pre><code>https://www.exploit-db.com/
+https://github.com/
+https://www.google.com/
+https://www.exploit-db.com/searchsploit
+http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet
+https://ippsec.rocks/?#
+https://rana-khalil.gitbook.io/hack-the-box-oscp-preparation/
+https://0xdf.gitlab.io/
+</code></pre>
+<h2 id="step-4-have-fun-and-enjoy">Step 4. Have fun and enjoy!!</h2>
+<p>The best way to learn something is just to do it!</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
